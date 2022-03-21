@@ -1,0 +1,13 @@
+com\product\exception\CustomEntityNotFoundException.class
+com\product\controller\ProductController.class
+com\product\model\GenericResponse.class
+com\product\model\ProductCurrencyResponse.class
+com\product\ProductApplication.class
+com\product\entity\Product.class
+com\product\model\ForeignRateErrorResponse.class
+com\product\repository\ProductRepository.class
+com\product\service\ProductService.class
+com\product\exception\CustomInternalServerError.class
+com\product\model\ForeignRateResponse.class
+com\product\exception\GlobalExceptionHandler.class
+com\product\service\ProductServiceImpl.class

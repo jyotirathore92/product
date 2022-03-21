@@ -1,0 +1,5 @@
+com\product\utils\TestDataGen.class
+com\product\service\ProductServiceTest$ProductServiceImplTestContextConfiguration.class
+com\product\ProductApiApplicationTests.class
+com\product\controller\ProductControllerTest.class
+com\product\service\ProductServiceTest.class
